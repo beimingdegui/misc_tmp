@@ -1,0 +1,29 @@
+
+# 计算机体系结构框架
+
+这是山东大学智能创新研究院（Academy of Intelligent Innovation）开发的计算机体系结构框架，旨在提供全面的计算机体系结构知识体系。
+
+## 项目简介
+
+本文档使用 asciidoc 构建，提供全面的计算机体系结构知识体系。
+
+## 作者
+
+李龙斌 - 山东大学智能创新研究院
+
+## 许可证
+
+本项目采用 BSD 2-Clause License 许可证。
+
+Copyright (c) 2024, 山东大学智能创新研究院（Academy of Intelligent Innovation）
+
+详细的许可证信息请查看 [LICENSE]([LICENSE](https://github.com/beimingdegui/misc-docs/blob/main/LICENSE)) 文件。
+
+## 贡献
+
+欢迎提交 Issue 和 Pull Request 来帮助改进文档。
+
+## 联系方式
+
+- 机构：山东大学智能创新研究院（Academy of Intelligent Innovation）
+- 项目地址：[https://github.com/beimingdegui/misc-docs](https://github.com/beimingdegui/misc-docs)
