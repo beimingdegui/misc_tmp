@@ -2,6 +2,16 @@
 
 李龙斌 - 202432466@mail.sdu.edu.cn
 
+:stem: latexmath
+:icons: font
+:source-highlighter: coderay
+:sectnums:
+:sectlinks:
+:sectnumlevels: 4
+:toc: left
+:toc-title: 目录
+:toclevels: 3  r
+
 == 计算机概论与设计分析基础
 
 === 引言
