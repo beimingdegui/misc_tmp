@@ -1,0 +1,31 @@
+= 计算机体系结构
+
+李龙斌 - 202432466@mail.sdu.edu.cn
+
+:stem: latexmath
+:icons: font
+:source-highlighter: coderay
+:sectnums:
+:sectlinks:
+:sectnumlevels: 4
+:toc: left
+:toc-title: 目录
+:toclevels: 3  r
+
+include::./src/ch1.计算机概论与设计分析基础.adoc[]
+
+include::./src/ch2.指令系统.adoc[]
+
+include::./src/ch3.计算机的算术运算.adoc[]
+
+include::./src/ch4.处理器.adoc[]
+
+include::./src/ch5.存储层次结构.adoc[]
+
+include::./src/ch6.数据级并行.adoc[]
+
+include::./src/ch7.线程级并行.adoc[]
+
+include::./src/ch8.集群、仓库级计算机（WSC）.adoc[]
+
+include::./src/ch9.领域专用体系结构.adoc[]

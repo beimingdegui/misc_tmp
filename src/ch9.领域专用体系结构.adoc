@@ -1,0 +1,75 @@
+== 领域专用体系结构
+
+针对特定领域定制处理器，加速某些应用程序以实现更好的性能与性价比
+
+=== DSA指导原则
+
+=== 示例领域：深度神经网络
+
+NOTE: 写成列表,算法和网络类型分开.写不出来可以不写,留个简单的列表就行
+
+* 算法
+
+- DNN的神经元
+- 训练与推理
+- 多层感知机
+- 批数据
+- 量化
+
+* 网络类型
+- 卷积神经网络
+- 循环神经网络
+
+=== Google的张量处理单元——一种数据中心推理加速器
+
+* TPU的起源
+
+* TPU体系结构
+
+* TPU指令集体系结构
+
+* TPU微体系结构
+
+* TPU实现
+
+* TPU软件
+
+* 改进TPU
+
+=== Microsoft Catapult——一种灵活的数据中心加速器
+
+* Catapult实现与体系结构
+
+* Catapult软件
+
+* Catapult上的CNN
+
+* Catapult上的搜索加速
+
+* Catapult Ver 1 的部署
+
+* Catapult Ver 2
+
+=== Intel Crest——一种用于训练的数据中心加速器
+
+=== Pixel Visual Core——一种个人移动设备图像处理单元
+
+* ISP——IPU的硬连线前身
+
+* Pixel Visual Core 软件
+
+* Pixel Visual Core 体系结构的理念
+
+* Pixel Visual Core 光晕
+
+* Pixel Visual Core 的处理器
+
+* Pixel Visual Core 指令集体系结构
+
+* Pixel Visual Core 示例
+
+* Pixel Visual Core PE
+
+* 二维行缓冲区及其控制器
+
+* Pixel Visual Core 实现
