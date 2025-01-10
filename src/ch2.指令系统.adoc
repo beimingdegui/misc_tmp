@@ -221,20 +221,20 @@ TIP: 附图p85
 
 ==== 条件分支指令
 
-[source,]
+[source,asm]
 ----
-// 如果rs1中的值与rs2中的值相等，那么PC跳转到标签L1处
+# 如果rs1中的值与rs2中的值相等，那么PC跳转到标签L1处
 beq rs1, rs2, L1
 
-// 如果rs1中的值与rs2中的值不相等，那么PC跳转到标签了L2处
+# 如果rs1中的值与rs2中的值不相等，那么PC跳转到标签了L2处
 bne rs1, rs2, L2
 ----
 
 ==== 循环
 
-[source,]
+[source,asm]
 ----
-// rs1持续加一，直到rs1等于10则退出循环
+# rs1持续加一，直到rs1等于10则退出循环
 addi rs1, rs0, 1
 addi rs2, rsr0, 10
 Loop:
@@ -242,7 +242,7 @@ addi rs1, rs1 ,1
 beq rs1, rs2, Exit
 j Loop
 Exit:
-//退出循环
+# 退出循环
 ----
 
 TIP: 更改为公式块
